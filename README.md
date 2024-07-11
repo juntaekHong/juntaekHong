@@ -19,9 +19,9 @@
 
   |Project||ETC|
   |--|--|--|
-  |Ohssok (23.05 ~ )|[<img alt="Ohssok Web" src="https://custom-icon-badges.demolab.com/badge/website-000000?style=for-the-badge&logo=ohssok-favicon&logoColor=white" />](https://ohssok.com/)|[![Website status](https://custom-icon-badges.demolab.com/website.svg?label=status&logo=ohssok-favicon&&url=https://ohssok.com&up_message=online&down_message=offline)](https://ohssok.com/)|
-  |Fanddle (21.04 ~ 22.03)|[<img alt="IOS-App" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/kr/app/shook-send-gifts-overseas/id1494667561) [<img alt="ANDROID-App" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fanddle.app&hl=ko)||
-  |more|...|Please check my resume|
+  |Ohssok|[<img alt="Ohssok Web" src="https://custom-icon-badges.demolab.com/badge/website-000000?style=for-the-badge&logo=ohssok-favicon&logoColor=white" />](https://ohssok.com/)|[![Website status](https://custom-icon-badges.demolab.com/website.svg?label=status&logo=ohssok-favicon&&url=https://ohssok.com&up_message=online&down_message=offline)](https://ohssok.com/)|
+  |Fanddle|[<img alt="IOS-App" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/kr/app/shook-send-gifts-overseas/id1494667561) [<img alt="ANDROID-App" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fanddle.app&hl=ko)||
+  |more|...|For more information, please check my resume|
   
   > 
   
