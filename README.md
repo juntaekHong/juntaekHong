@@ -20,12 +20,12 @@
 ---
 ### Deployment
 
-##### Ohssok (23.05 ~ )
+##### Ohssok (23.05 ~ ) [![Website status](https://img.shields.io/website.svg?color=00E007&label=status&url=https://ohssok.com)](https://ohssok.com/)
 > Side Project
 
 [<img alt="Ohssok Web" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://ohssok.com/)
 
-##### Fanddle (21.04 ~ 22.03) [![Website status](https://img.shields.io/website.svg?color=00E007&label=status&url=https://ohssok.com)](https://ohssok.com/)
+##### Fanddle (21.04 ~ 22.03)
 >  Current name is "Shook"
 
 [<img alt="IOS-App" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/kr/app/shook-send-gifts-overseas/id1494667561)
