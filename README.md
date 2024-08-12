@@ -1,4 +1,8 @@
 <div align="center">
+
+  ### stats
+  ![juntaekHong's GitHub stats](https://github-readme-stats-rho-pied-12.vercel.app/api?username=juntaekHong&show_icons=true&count_private=true&theme=radical&hide=stars)
+
   
   ### Most used language
   
